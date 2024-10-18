@@ -37,6 +37,7 @@ header .areaHeader {
 header .boxLogo {
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 header .boxLogo img {
   width: 5rem;
