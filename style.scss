@@ -78,13 +78,13 @@ header {
     }
   }
 
-  .menuH{
-    i{
+  .menuH {
+    i {
       display: none;
       font-size: 2rem;
       color: #fff;
       cursor: pointer;
-  
+
       @media (max-width: 680px) {
         display: block;
       }
@@ -180,7 +180,6 @@ main {
         width: 10rem;
         height: 10rem;
       }
-  
     }
   }
 }
@@ -199,7 +198,6 @@ footer {
   @media (max-width: 535px) {
     flex-direction: column;
   }
-  
 
   .icons {
     display: flex;
